@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numFailing&apos; in &apos;Gradebook.getPassingGradesPortion(...)&apos; to &apos;numPassing&apos;&#x0D;&#x0A;- Original project: &apos;CC1&apos;&#x0D;&#x0A;- Original element: &apos;Gradebook.getPassingGradesPortion(double[], int).numFailing&apos;&#x0D;&#x0A;- Renamed element: &apos;numFailing&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numFailing&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Gradebook.java[Gradebook~getPassingGradesPortion~\[D~I@numFailing!3003!3021!3007!3016!I!0!false" name="numPassing" references="true" stamp="1646510508727" version="1.0"/>
+</session>

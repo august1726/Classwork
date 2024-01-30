@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;max&apos; in &apos;Counter.main(...)&apos; to &apos;min&apos;&#x0D;&#x0A;- Original project: &apos;TL6&apos;&#x0D;&#x0A;- Original element: &apos;Counter.main(String[]).max&apos;&#x0D;&#x0A;- Renamed element: &apos;max&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;max&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Counter.java[Counter~main~\[QString;@max!971!999!975!977!I!0!false" name="min" references="true" stamp="1636584912455" version="1.0"/>
+</session>

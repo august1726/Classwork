@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;position&apos; in &apos;UFO&apos; to &apos;direction&apos;&#x0D;&#x0A;- Original project: &apos;SpaceLab&apos;&#x0D;&#x0A;- Original element: &apos;UFO.position&apos;&#x0D;&#x0A;- Renamed element: &apos;UFO.direction&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;position&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{UFO.java[UFO^position" name="direction" references="true" setter="false" stamp="1639609668764" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;temp2&apos; in &apos;CS400Graph.dijkstrasShortestPath(...)&apos; to &apos;newPath&apos;&#x0D;&#x0A;- Original project: &apos;Project3_AY_red&apos;&#x0D;&#x0A;- Original element: &apos;CS400Graph.dijkstrasShortestPath(NodeType, NodeType).temp2&apos;&#x0D;&#x0A;- Renamed element: &apos;temp2&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;temp2&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{CS400Graph.java[CS400Graph~dijkstrasShortestPath~QNodeType;~QNodeType;@temp2!14801!14831!14806!14810!QPath;!0!false" name="newPath" references="true" stamp="1669677060890" version="1.0"/>
+</session>

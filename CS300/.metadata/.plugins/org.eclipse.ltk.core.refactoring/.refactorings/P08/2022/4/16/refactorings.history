@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;temp&apos; in &apos;LinkedQueue.enqueue​(...)&apos; to &apos;next&apos;&#x0D;&#x0A;- Original project: &apos;P08&apos;&#x0D;&#x0A;- Original element: &apos;LinkedQueue.enqueue​(T).temp&apos;&#x0D;&#x0A;- Renamed element: &apos;temp&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;temp&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{LinkedQueue.java[LinkedQueue~enqueue​~QT;@temp!743!775!751!754!QNode\&lt;QT;&gt;;!0!false" name="next" references="true" stamp="1650145242784" version="1.0"/>
+</session>

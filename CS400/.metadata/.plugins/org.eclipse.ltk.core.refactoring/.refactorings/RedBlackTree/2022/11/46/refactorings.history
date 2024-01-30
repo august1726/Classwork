@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;junit5.jar&apos; to &apos;Project2_AY_red/src&apos;&#x0D;&#x0A;- Original project: &apos;RedBlackTree&apos;&#x0D;&#x0A;- Destination element: &apos;Project2_AY_red/src&apos;&#x0D;&#x0A;- Original element: &apos;junit5.jar&apos;" description="Copy file" destination="=Project2_AY_red/src" element1="src/junit5.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1667959531312" units="0" version="1.0"/>
+</session>

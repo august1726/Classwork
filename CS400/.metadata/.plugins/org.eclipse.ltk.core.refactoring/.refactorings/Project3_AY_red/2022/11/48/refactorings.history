@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;IterableGraphADT.java&apos; to &apos;NavigationGraphADT.java&apos;&#x0D;&#x0A;- Original project: &apos;Project3_AY_red&apos;&#x0D;&#x0A;- Original element: &apos;IterableGraphADT.java&apos;&#x0D;&#x0A;- Renamed element: &apos;NavigationGraphADT.java&apos;" description="Rename compilation unit &apos;IterableGraphADT.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{IterableGraphADT.java" name="NavigationGraphADT.java" references="false" stamp="1669238027091" version="1.0"/>
+</session>
